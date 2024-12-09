@@ -20,3 +20,19 @@ Before you can run the project, you'll need to install the required dependencies
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+
+
+
+
+
+# Speech-to-Speech LLM Demo
+
+Check out the demo video below:
+
+<video width="600" controls>
+  <source src="./videos/Screen%20Recording%20-%20Dec%209%2C%202024-VEED.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Alternatively, you can [download the demo video](./videos/Screen%20Recording%20-%20Dec%209%2C%202024-VEED.mp4).
