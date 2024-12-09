@@ -26,3 +26,14 @@ git clone https://github.com/username/project-name.git
 
 # Navigate into the project directory
 cd project-name
+```bash
+
+### Step 2: Clone the Repository
+```bash
+# Check if Python is installed
+python --version
+
+# If Python is not installed, install it (Linux example)
+sudo apt update
+sudo apt install python3 python3-pip
+```bash
