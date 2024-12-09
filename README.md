@@ -17,8 +17,6 @@ Python 3.7+ (Recommended: 3.9+)
 # Project Requirements
 
 Before you can run the project, you'll need to install the required dependencies.
-### Step 1: Clone the Repository
-
-# Install project dependencies using pip
-''' bash
+### Install Dependencies
+```bash
 pip install -r requirements.txt
