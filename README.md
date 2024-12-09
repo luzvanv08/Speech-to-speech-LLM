@@ -14,32 +14,15 @@ To get started with the Speech-to-Speech LLM, follow the steps below.
 
 # Requirements
 Python 3.7+ (Recommended: 3.9+)
+# Project Requirements
+
+Before you can run the project, you'll need to install the required dependencies. Below are the steps to set up the environment using Bash commands.
+
+### Step 1: Clone the Repository
 
 ```bash
-pip (Python package installer)
-Speech recognition library (e.g., speech_recognition)
-Text-to-Speech engine (e.g., pyttsx3 or cloud-based TTS like Google Cloud TTS, Amazon Polly)
-Optional: Deep learning models (e.g., OpenAI's GPT, custom LLMs, or translation models)
-Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/speech-to-speech-llm.git
-cd speech-to-speech-llm
-Step 2: Install Dependencies
-```bash
-pip install -r requirements.txt
-Step 3: Set Up API Keys (If Required)
-If you're using a third-party API (like Google Cloud Speech or TTS), set up the necessary keys in the environment variables or configuration file.
+# Clone the repository to your local machine
+git clone https://github.com/username/project-name.git
 
-```bash
-export GOOGLE_API_KEY="your_google_api_key"
-Step 4: Run the Application
-For local testing, you can run the application with:
-
-```bash
-python app.py
-Usage
-Once the system is set up, you can interact with the Speech-to-Speech LLM using the command-line interface (CLI) or the provided API.
-
-Example CLI Interaction:
-```bash
-python speech_to_speech.py --source_lang en --target_lang es
+# Navigate into the project directory
+cd project-name
