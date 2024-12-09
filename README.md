@@ -1,8 +1,8 @@
-##Speech-to-Speech LLM
-#Overview
+## Speech-to-Speech LLM
+# Overview
 The Speech-to-Speech LLM (Language Model) is a sophisticated tool that processes speech input in one language and generates speech output in another language (or the same language), enabling seamless and efficient communication. Leveraging advanced language models and state-of-the-art speech recognition and synthesis technologies, this system enables users to translate, transcribe, and generate spoken content in real-time.
 
-#Key Features
+# Key Features
 Speech Recognition: Convert spoken language into text for further processing.
 Text-to-Text Translation: Use a powerful language model to translate or transcribe text into another language (if applicable).
 Text-to-Speech (TTS): Convert the processed or translated text back into natural-sounding speech.
@@ -12,8 +12,10 @@ Contextual Understanding: Utilizes advanced LLM capabilities for better handling
 Installation
 To get started with the Speech-to-Speech LLM, follow the steps below.
 
-#Requirements
+# Requirements
 Python 3.7+ (Recommended: 3.9+)
+
+```bash
 pip (Python package installer)
 Speech recognition library (e.g., speech_recognition)
 Text-to-Speech engine (e.g., pyttsx3 or cloud-based TTS like Google Cloud TTS, Amazon Polly)
