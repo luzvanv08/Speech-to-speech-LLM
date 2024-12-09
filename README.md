@@ -16,24 +16,8 @@ To get started with the Speech-to-Speech LLM, follow the steps below.
 Python 3.7+ (Recommended: 3.9+)
 # Project Requirements
 
-Before you can run the project, you'll need to install the required dependencies. Below are the steps to set up the environment using Bash commands.
-
+Before you can run the project, you'll need to install the required dependencies.
 ### Step 1: Clone the Repository
 
-```bash
-# Clone the repository to your local machine
-git clone https://github.com/username/project-name.git
-
-# Navigate into the project directory
-cd project-name
-```bash
-
-### Step 2: Clone the Repository
-```bash
-# Check if Python is installed
-python --version
-
-# If Python is not installed, install it (Linux example)
-sudo apt update
-sudo apt install python3 python3-pip
-```bash
+# Install project dependencies using pip
+pip install -r requirements.txt
